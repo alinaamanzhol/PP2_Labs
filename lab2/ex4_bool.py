@@ -1,4 +1,1 @@
-print (bool("abc"))
-
-
-True
+print("aaaa")
