@@ -1,0 +1,3 @@
+myvar = {'type' : 'fruit', 'name' : 'apple', 'color' : 'red'}
+del myvar["color"]
+print(myvar)
