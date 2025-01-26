@@ -1,0 +1,1 @@
+thistuple = ('apple', 'banana', 'cherry')
